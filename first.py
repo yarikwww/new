@@ -1,6 +1,6 @@
 #Вправа 1
 import random
-
+print('Hello')
 
 
 def generate_random_number():
